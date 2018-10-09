@@ -10,29 +10,35 @@
     </addressComponent>
     <addressComponent>
       <field>STATE_PROVINCE</field>
-      <nameMapping>impl.province</nameMapping>
+      <nameMapping>impl.department</nameMapping>
       <sizeMapping>40</sizeMapping>
       <requiredInHierarchy>false</requiredInHierarchy>
     </addressComponent>
     <addressComponent>
-      <field>COUNTY_DISTRICT</field>
-      <nameMapping>impl.district</nameMapping>
+      <field>CITY_VILLAGE</field>
+      <nameMapping>impl.commune</nameMapping>
       <sizeMapping>40</sizeMapping>
       <requiredInHierarchy>false</requiredInHierarchy>
     </addressComponent>
     <addressComponent>
-      <field>ADDRESS_6</field>
-      <nameMapping>impl.region</nameMapping>
+      <field>ADDRESS_3</field>
+      <nameMapping>impl.sectionCommunale</nameMapping>
       <sizeMapping>40</sizeMapping>
       <requiredInHierarchy>false</requiredInHierarchy>
     </addressComponent>
     <addressComponent>
-      <field>ADDRESS_5</field>
-      <nameMapping>impl.village</nameMapping>
+      <field>ADDRESS_1</field>
+      <nameMapping>impl.localityHouse</nameMapping>
       <sizeMapping>40</sizeMapping>
       <requiredInHierarchy>false</requiredInHierarchy>
     </addressComponent>
-  </addressComponents>>
+    <addressComponent>
+      <field>ADDRESS_2</field>
+      <nameMapping>Location.address1</nameMapping>
+      <sizeMapping>40</sizeMapping>
+      <requiredInHierarchy>false</requiredInHierarchy>
+    </addressComponent>
+  </addressComponents>
   <addressHierarchyFile>
     <filename>addresshierarchy.csv</filename>
     <entryDelimiter>,</entryDelimiter>
