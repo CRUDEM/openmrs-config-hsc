@@ -5,7 +5,7 @@
       <field>COUNTRY</field>
       <nameMapping>Country</nameMapping>
       <sizeMapping>40</sizeMapping>
-      <elementDefault>haiti</elementDefault>
+      <elementDefault>Haiti</elementDefault>
       <requiredInHierarchy>false</requiredInHierarchy>
     </addressComponent>
     <addressComponent>
