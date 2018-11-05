@@ -8,7 +8,7 @@ Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Descript
 ,,,BMI STATUS ABNORMAL,BMI STATUS ABNORMAL,,Abnormal,Boolean,,,,,,,,,,,
 ,,,BMI STATUS,BMI STATUS,,Computed,Text,,,,,,,,,,,
 ,,,BMI Status Data,BMI STATUS,,Concept Details,N/A,,,BMI STATUS ABNORMAL; BMI STATUS,,,,,,,,
-84f626d0-3f10-11e4-adec-0800271c1b75,,,Nutritional Values,Nutritional Values,,ConvSet,N/A,,,WEIGHT; HEIGHT,,,,,,,,
+84f626d0-3f10-11e4-adec-0800271c1b75,,,Nutritional Values,Nutritional Values,,ConvSet,N/A,,,HEIGHT;WEIGHT,,,,,,,,
 ,,,HSC_Pulse,Pulse,,Question,Numeric,,,,,,60,90,10,500,,
 ,,,HSC_Pulse Abnormal,Abnormal Pulse,,Abnormal,Boolean,,,,,,,,,,,
 ,,,HSC_Pulse Data,Pulse,,Concept Details,N/A,,,HSC_Pulse;HSC_Pulse Abnormal;,,,,,,,,
