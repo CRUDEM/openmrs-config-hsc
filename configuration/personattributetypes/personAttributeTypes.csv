@@ -27,3 +27,4 @@ ecdfe4f8-e66d-43a3-af8e-560b98b6be2a,,impl.policyNumber,Policy Number,java.lang.
 d7a52bd1-77dd-4f71-a5d0-92848a746014,,impl.contactPersonName,Contact Person Name,java.lang.String,,,,
 62844ea0-8be6-4a12-9471-cbb1f060d78b,,impl.contactPersonPhoneNumber,Contact Person Phone Number,java.lang.String,,,,
 0c6d3b0c-7b54-4848-9638-6afc046c59ec,,impl.contactPersonAddress,Contact Person Address,java.lang.String,,,,
+b47a9c55-4d28-4549-a223-b16d54b8fbbf,,impl.contactPersonRelationship,Contact Person Relationship,org.openmrs.Concept,ee63d1f2-095a-4d28-ba95-fbc933666070,,,
