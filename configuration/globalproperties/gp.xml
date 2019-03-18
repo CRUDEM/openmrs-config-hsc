@@ -1,6 +1,10 @@
 <config>
   <globalProperties>
     <globalProperty>
+      <property>patient.nameValidationRegex</property>
+      <value></value>
+    </globalProperty>
+    <globalProperty>
       <property>bahmni.primaryIdentifierType</property>
       <value>b303f207-a094-457f-9833-f1cdc7b5d184</value>
     </globalProperty>
