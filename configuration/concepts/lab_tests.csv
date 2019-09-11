@@ -1,80 +1,80 @@
-Uuid,Void/Retire,Same as mappings,Fully specified name:en,Fully specified name:fr,Short name:en,Short name:fr,Description:en,Description:km,Data class,Data type,Complex data handler,Answers,Members,Allow decimals,Units,Normal low,Normal high,Absolute low,Absolute high,_version:1,_order:1100
-f65d82c5-139a-493d-b83a-5a91270bf9d0,,,Acide Urique,Acide Urique,Acide Urique,Acide Urique,,,LabTest,Text,,,,,,,,,,,
-798683e4-9e7b-4fea-9959-c74939d323f3,,,Anthrax Cutané- Skin Test,Anthrax Cutané- Skin Test,Anthrax Cutané- Skin Test,Anthrax Cutané- Skin Test,,,LabTest,Text,,,,,,,,,,,
-ed0b3145-be66-44c9-8a2f-6d247ae512bf,,,Anthrax Gastrointestinal- Blood Test or Stool Test ,Anthrax Gastrointestinal- Blood Test or Stool Test ,Anthrax Gastrointestinal- Blood Test or Stool Test ,Anthrax Gastrointestinal- Blood Test or Stool Test ,,,LabTest,Text,,,,,,,,,,,
-bdff0480-5ec8-42b9-85b8-46214ab64d41,,,ADT (SGPT),ADT (SGPT),ADT (SGPT),ADT (SGPT),,,LabTest,Text,,,,,,,,,,,
-ae6a1b41-e1be-443c-9fca-332f4973811d,,,Albumine,Albumine,Albumine,Albumine,,,LabTest,Text,,,,,,,,,,,
-0107f9ee-c316-402b-989c-a893ee87cd5c,,,Amylase,Amylase,Amylase,Amylase,,,LabTest,Text,,,,,,,,,,,
-eb9f2211-af08-46c3-b970-5a56c23dd232,,,ASO (Antistreptolysine O),ASO (Antistreptolysine O),ASO (Antistreptolysine O),ASO (Antistreptolysine O),,,LabTest,Text,,,,,,,,,,,
-f8abd7c5-ad54-4cba-b5a5-72ecf1a075b2,,,AST (SGOT),AST (SGOT),AST (SGOT),AST (SGOT),,,LabTest,Text,,,,,,,,,,,
-df07f646-a77c-4b40-aec8-0c9c9c85fea6,,,Azote de l'Urée (BUN),Azote de l'Urée (BUN),Azote de l'Urée (BUN),Azote de l'Urée (BUN),,,LabTest,Text,,,,,,,,,,,
-79c12c7f-117d-4f25-8454-2f10f788e467,,,BHCG,BHCG,BHCG,BHCG,,,LabTest,Text,,,,,,,,,,,
-d6f494c5-5e18-4fd2-bb91-2deeda9f0a1e,,,Bilan Hépatique (AST-ALT-TBil-ALKP-LDH),Bilan Hépatique (AST-ALT-TBil-ALKP-LDH),Bilan Hépatique (AST-ALT-TBil-ALKP-LDH),Bilan Hépatique (AST-ALT-TBil-ALKP-LDH),,,LabTest,Text,,,,,,,,,,,
-a2b4f320-5abb-4c3f-9e0f-01c3adb6e522,,,Bilan Lipidique (Chol-Trig-HDLC-LDL-VLDL),Bilan Lipidique (Chol-Trig-HDLC-LDL-VLDL),Bilan Lipidique (Chol-Trig-HDLC-LDL-VLDL),Bilan Lipidique (Chol-Trig-HDLC-LDL-VLDL),,,LabTest,Text,,,,,,,,,,,
-b0195f0d-aade-4a0f-9d14-aad299cb7678,,,Bilan Pré-Opératoire(Hemogramme-ABO&RB-PT&INR),Bilan Pré-Opératoire(Hemogramme-ABO&RB-PT&INR),Bilan Pré-Opératoire(Hemogramme-ABO&RB-PT&INR),Bilan Pré-Opératoire(Hemogramme-ABO&RB-PT&INR),,,LabTest,Text,,,,,,,,,,,
-4ffaade4-ce92-449f-9e22-faaa7c6ecaaa,,,Bilan Renal (BUN-Creat-Urée-Acide Urique),Bilan Renal (BUN-Creat-Urée-Acide Urique),Bilan Renal (BUN-Creat-Urée-Acide Urique),Bilan Renal (BUN-Creat-Urée-Acide Urique),,,LabTest,Text,,,,,,,,,,,
-39903f75-4d96-43fa-afa0-c843798d7cec,,,Bilan Thyroïdien,Bilan Thyroïdien,Bilan Thyroïdien,Bilan Thyroïdien,,,LabTest,Text,,,,,,,,,,,
-4dbc46d5-1c93-4560-8fb0-26c6a78ab007,,,Bilirubine Totale,Bilirubine Totale,Bilirubine Totale,Bilirubine Totale,,,LabTest,Text,,,,,,,,,,,
-cab64983-787a-450a-8a9f-efe0b74127c7,,,Calcium (Ca),Calcium (Ca),Calcium (Ca),Calcium (Ca),,,LabTest,Text,,,,,,,,,,,
-a4af663e-9fef-4398-8d4e-77e5ae7d4c99,,,Chimie Sanguine (Glycemie-BUN-Urée-Créatine) ,Chimie Sanguine (Glycemie-BUN-Urée-Créatine) ,Chimie Sanguine (Glycemie-BUN-Urée-Créatine) ,Chimie Sanguine (Glycemie-BUN-Urée-Créatine) ,,,LabTest,Text,,,,,,,,,,,
-380e0d5e-7f4c-400b-b42d-328f905a59cb,,,Chlore (Cl),Chlore (Cl),Chlore (Cl),Chlore (Cl),,,LabTest,Text,,,,,,,,,,,
-809edde1-b977-44dc-828c-d630c458dcc1,,,Cholesterol,Cholesterol,Cholesterol,Cholesterol,,,LabTest,Text,,,,,,,,,,,
-5703a04f-4019-4b35-9c46-61fe6562d96b,,,CO₂,CO₂,CO₂,CO₂,,,LabTest,Text,,,,,,,,,,,
-60029076-fb62-4639-bb05-42c29f6824a8,,,Crachat,Crachat,Crachat,Crachat,,,LabTest,Text,,,,,,,,,,,
-cbbfef96-4310-4c03-b020-0d46d43b76e2,,,Créatinine (CRSC),Créatinine (CRSC),Créatinine (CRSC),Créatinine (CRSC),,,LabTest,Text,,,,,,,,,,,
-e99feb36-c354-469f-8e57-37dda7549752,,,Créatinine Kinase (CK),Créatinine Kinase (CK),Créatinine Kinase (CK),Créatinine Kinase (CK),,,LabTest,Text,,,,,,,,,,,
-3e7519ab-9770-46af-aaa3-848aac5b0204,,,Créatinine Kinase MB,Créatinine Kinase MB,Créatinine Kinase MB,Créatinine Kinase MB,,,LabTest,Text,,,,,,,,,,,
-de6e768c-149c-4146-9187-2450095b14bf,,,CRP,CRP,CRP,CRP,,,LabTest,Text,,,,,,,,,,,
-b16c518c-5c57-4aae-849b-5d25f62bc8e0,,,ECBC des Liquides (TP-ALB-LDH-GLU-WBC-RBC-Diff…),ECBC des Liquides (TP-ALB-LDH-GLU-WBC-RBC-Diff…),ECBC des Liquides (TP-ALB-LDH-GLU-WBC-RBC-Diff…),ECBC des Liquides (TP-ALB-LDH-GLU-WBC-RBC-Diff…),,,LabTest,Text,,,,,,,,,,,
-a93fbb7b-e982-4da6-8faf-750aada36630,,,Fer (Fe),Fer (Fe),Fer (Fe),Fer (Fe),,,LabTest,Text,,,,,,,,,,,
-a7921ec8-9fcf-4256-9086-5e28c546834a,,,Filaire test Diurne,Filaire test Diurne,Filaire test Diurne,Filaire test Diurne,,,LabTest,Text,,,,,,,,,,,
-ee8ea70f-7d9a-46ca-acc6-fe7aef3baa18,,,Filaire test Nocturne,Filaire test Nocturne,Filaire test Nocturne,Filaire test Nocturne,,,LabTest,Text,,,,,,,,,,,
-41c3aa3c-30d5-46ea-aded-fb4740582d7a,,,Frottis Uretral+ Goutte pendante,Frottis Uretral+ Goutte pendante,Frottis Uretral+ Goutte pendante,Frottis Uretral+ Goutte pendante,,,LabTest,Text,,,,,,,,,,,
-b87c4a2d-4963-4799-9c9d-304be3b74dfc,,,Frottis Vaginal+ Goutte pendante,Frottis Vaginal+ Goutte pendante,Frottis Vaginal+ Goutte pendante,Frottis Vaginal+ Goutte pendante,,,LabTest,Text,,,,,,,,,,,
-1fb4ceb0-2ca2-4ed5-a5e0-d25a0b0614e3,,,Globules Blanches,Globules Blanches,Globules Blanches,Globules Blanches,,,LabTest,Text,,,,,,,,,,,
-13371f25-ae43-45a7-bbd9-706612acd6cd,,,Globules Rouges,Globules Rouges,Globules Rouges,Globules Rouges,,,LabTest,Text,,,,,,,,,,,
-8e5d8513-9a0f-4cec-90ff-b1e77b50cd58,,,Glycemie Capillaire,Glycemie Capillaire,Glycemie Capillaire,Glycemie Capillaire,,,LabTest,Text,,,,,,,,,,,
-24963346-032e-474e-b832-ab55e9e72bc1,,,Glycemie Plasmatique,Glycemie Plasmatique,Glycemie Plasmatique,Glycemie Plasmatique,,,LabTest,Text,,,,,,,,,,,
-9977fc27-2cda-418a-b1d9-ac781a3c29d9,,,Gravindex,Gravindex,Gravindex,Gravindex,,,LabTest,Text,,,,,,,,,,,
-af90f114-08f4-48e1-92ae-d65dd98bd17a,,,"Groupe Sanguin (ABO, Rh)","Groupe Sanguin (ABO, Rh)","Groupe Sanguin (ABO, Rh)","Groupe Sanguin (ABO, Rh)",,,LabTest,Text,,,,,,,,,,,
-388e1e88-579b-456b-9c76-3632e0656fe6,,,Hemogramme Complet,Hemogramme Complet,Hemogramme Complet,Hemogramme Complet,,,LabTest,Text,,,,,,,,,,,
-81616dfd-0214-4213-b9dc-b3b4d1eb19ee,,,H-Pilori dans les selles,H-Pilori dans les selles,H-Pilori dans les selles,H-Pilori dans les selles,,,LabTest,Text,,,,,,,,,,,
-a8e39cd4-848a-4e29-8029-b3cab9786ccf,,,H-Pilori test,H-Pilori test,H-Pilori test,H-Pilori test,,,LabTest,Text,,,,,,,,,,,
-875fa3bf-02b6-4640-8a0f-12b41f273ea0,,,"Ionogramme (Na, K, Cl, CO₂)","Ionogramme (Na, K, Cl, CO₂)","Ionogramme (Na, K, Cl, CO₂)","Ionogramme (Na, K, Cl, CO₂)",,,LabTest,Text,,,,,,,,,,,
-c682feeb-1c0f-4e20-8d39-5ebd40c5d72f,,,Lame Peripherique,Lame Peripherique,Lame Peripherique,Lame Peripherique,,,LabTest,Text,,,,,,,,,,,
-dd92f9aa-b168-4f18-bf3c-c5131368de43,,,LDH,LDH,LDH,LDH,,,LabTest,Text,,,,,,,,,,,
-3285e4cb-eb01-4379-be0f-58582405034d,,,Lipase,Lipase,Lipase,Lipase,,,LabTest,Text,,,,,,,,,,,
-bdfdc444-b02e-43b2-969b-a871727a9b2f,,,Magnesium (Mg),Magnesium (Mg),Magnesium (Mg),Magnesium (Mg),,,LabTest,Text,,,,,,,,,,,
-418f9d6b-5640-468d-bdd0-d8eb7240f2c7,,,Malaria test,Malaria test,Malaria test,Malaria test,,,LabTest,Text,,,,,,,,,,,
-6ffe9e2c-30df-441b-8d9e-e8961ba7d926,,,Mantoux test,Mantoux test,Mantoux test,Mantoux test,,,LabTest,Text,,,,,,,,,,,
-f9bb02ae-c609-45d3-87c4-d4545547ae46,,,Phosphatase Alcaline (ALKP),Phosphatase Alcaline (ALKP),Phosphatase Alcaline (ALKP),Phosphatase Alcaline (ALKP),,,LabTest,Text,,,,,,,,,,,
-232daf37-6084-4e27-90e8-fb5c586b914f,,,Plaquettes Sanguines,Plaquettes Sanguines,Plaquettes Sanguines,Plaquettes Sanguines,,,LabTest,Text,,,,,,,,,,,
-6ec9061c-29a9-46d4-beb3-bbc7ec276463,,,Potassium (K),Potassium (K),Potassium (K),Potassium (K),,,LabTest,Text,,,,,,,,,,,
-7dc0f852-edbf-469d-ad81-b322c76541f1,,,Proteine Serique,Proteine Serique,Proteine Serique,Proteine Serique,,,LabTest,Text,,,,,,,,,,,
-809bc19e-d307-44cb-9b7e-40b53dd1cc87,,,Proteine Totale,Proteine Totale,Proteine Totale,Proteine Totale,,,LabTest,Text,,,,,,,,,,,
-87eb3958-e32d-439f-ad74-288c69e6e523,,,PSA,PSA,PSA,PSA,,,LabTest,Text,,,,,,,,,,,
-513eea45-283c-4fcc-8e68-b67e7f675700,,,PT-INR,PT-INR,PT-INR,PT-INR,,,LabTest,Text,,,,,,,,,,,
-466f8940-043a-414c-8093-3af5931a0f26,,,RPR,RPR,RPR,RPR,,,LabTest,Text,,,,,,,,,,,
-aa001db4-ff1a-4965-8ba4-171234d8c413,,,Sang Occulte,Sang Occulte,Sang Occulte,Sang Occulte,,,LabTest,Text,,,,,,,,,,,
-66b0701d-6648-4870-b825-a97a23174923,,,Selles,Selles,Selles,Selles,,,LabTest,Text,,,,,,,,,,,
-95f7a90b-162f-4d6e-a930-70e74fc5fe29,,,Sickling test,Sickling test,Sickling test,Sickling test,,,LabTest,Text,,,,,,,,,,,
-87f29974-9b4e-4de8-91fe-1549efbed66c,,,Sodium (Na),Sodium (Na),Sodium (Na),Sodium (Na),,,LabTest,Text,,,,,,,,,,,
-4d382dd3-4bc3-4a24-a51c-25e95dec9fcb,,,T3,T3,T3,T3,,,LabTest,Text,,,,,,,,,,,
-9d49aedc-8a43-4fba-8102-900cfa581e94,,,T4,T4,T4,T4,,,LabTest,Text,,,,,,,,,,,
-e87b437f-1cd7-464e-9518-5eb5589a3d26,,,Taux de reticulocytes,Taux de reticulocytes,Taux de reticulocytes,Taux de reticulocytes,,,LabTest,Text,,,,,,,,,,,
-e2833702-58c3-4d4d-8515-d6cd4bdb60b6,,,Triglyceride,Triglyceride,Triglyceride,Triglyceride,,,LabTest,Text,,,,,,,,,,,
-db742797-1603-4e93-a855-bbf89e00b86e,,,TSH,TSH,TSH,TSH,,,LabTest,Text,,,,,,,,,,,
-2adb5262-e165-48a8-9c6f-df8cee19856c,,,Urée,Urée,Urée,Urée,,,LabTest,Text,,,,,,,,,,,
-170862ae-43a9-4b91-9aba-6ddc7d7e69a0,,,Urines,Urines,Urines,Urines,,,LabTest,Text,,,,,,,,,,,
-7b99747a-287d-4f1a-a952-619259a0b6eb,,,Vitesse de Sedimentation (VS),Vitesse de Sedimentation (VS),Vitesse de Sedimentation (VS),Vitesse de Sedimentation (VS),,,LabTest,Text,,,,,,,,,,,
-52cf990c-cdd9-48c5-bdd6-33c0407d9caa,,,VLDL-Cholesterol,VLDL-Cholesterol,VLDL-Cholesterol,VLDL-Cholesterol,,,LabTest,Text,,,,,,,,,,,
-95a5cae1-30f8-40a1-b883-4fba909f62a6,,,Widal,Widal,Widal,Widal,,,LabTest,Text,,,,,,,,,,,
-997f4c0b-9c36-4d4b-ba0c-1ad411a00212,,,BAAF,BAAF,BAAF,BAAF,,,LabTest,Text,,,,,,,,,,,
-357ab1df-f5a9-467b-94ec-54d9c8952036,,,Biopsie ,Biopsie ,Biopsie ,Biopsie ,,,LabTest,Text,,,,,,,,,,,
-97637590-c67a-4bbf-a1b2-77b23cb15e2c,,,Biopsie+ Colposcopie,Biopsie+ Colposcopie,Biopsie+ Colposcopie,Biopsie+ Colposcopie,,,LabTest,Text,,,,,,,,,,,
-013d1f55-1aaa-44aa-a29a-d98a99aa12b1,,,Cytologie (frozen sop),Cytologie (frozen sop),Cytologie (frozen sop),Cytologie (frozen sop),,,LabTest,Text,,,,,,,,,,,
-ab50cdf5-b9f1-4cd5-a864-486c76f6e3ff,,,Pap Test,Pap Test,Pap Test,Pap Test,,,LabTest,Text,,,,,,,,,,,
-4a8881f4-8539-48e0-a5f6-b69037155d3e,,,Recherche de Cellules Malignes,Recherche de Cellules Malignes,Recherche de Cellules Malignes,Recherche de Cellules Malignes,,,LabTest,Text,,,,,,,,,,,
-,,,HSC_general_lab_tests,HSC_general_lab_tests,General lab tests,General lab tests,,,Sample,N/A,,,"Acide Urique;Anthrax Cutané- Skin Test;Anthrax Gastrointestinal- Blood Test or Stool Test ;ADT (SGPT);Albumine;Amylase;ASO (Antistreptolysine O);AST (SGOT);Azote de l'Urée (BUN);BHCG;Bilan Hépatique (AST-ALT-TBil-ALKP-LDH);Bilan Lipidique (Chol-Trig-HDLC-LDL-VLDL);Bilan Pré-Opératoire(Hemogramme-ABO&RB-PT&INR);Bilan Renal (BUN-Creat-Urée-Acide Urique);Bilan Thyroïdien;Bilirubine Totale;Calcium (Ca);Chimie Sanguine (Glycemie-BUN-Urée-Créatine) ;Chlore (Cl);Cholesterol;CO₂;Crachat;Créatinine (CRSC);Créatinine Kinase (CK);Créatinine Kinase MB;CRP;ECBC des Liquides (TP-ALB-LDH-GLU-WBC-RBC-Diff…);Fer (Fe);Filaire test Diurne;Filaire test Nocturne;Frottis Uretral+ Goutte pendante;Frottis Vaginal+ Goutte pendante;Globules Blanches;Globules Rouges;Glycemie Capillaire;Glycemie Plasmatique;Gravindex;Groupe Sanguin (ABO, Rh);Hemogramme Complet;H-Pilori dans les selles;H-Pilori test;Ionogramme (Na, K, Cl, CO₂);Lame Peripherique;LDH;Lipase;Magnesium (Mg);Malaria test;Mantoux test;Phosphatase Alcaline (ALKP);Plaquettes Sanguines;Potassium (K);Proteine Serique;Proteine Totale;PSA;PT-INR;RPR;Sang Occulte;Selles;Sickling test;Sodium (Na);T3;T4;Taux de reticulocytes;Triglyceride;TSH;Urée;Urines;Vitesse de Sedimentation (VS);VLDL-Cholesterol;Widal;BAAF;Biopsie",,,,,,,,
-,,,HSC_HISTOPATHOLOGY,HSC_HISTOPATHOLOGY,Histopathology,Histopathology,,,Sample,N/A,,,Biopsie+ Colposcopie;Cytologie (frozen sop);Pap Test;Recherche de Cellules Malignes,,,,,,,,
-8160a011-3f10-11e4-adec-0800271c1b75,,,Lab Samples,Laboratory,,,,,Misc,N/A,,,HSC_general_lab_tests;HSC_HISTOPATHOLOGY ,,,,,,,,
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Fully specified name:fr,Short name:en,Short name:fr,Description:en,Description:km,Data class,Data type,Complex data handler,Answers,Members,Allow decimals,Units,Normal low,Normal high,Absolute low,Absolute high,_version:1,_order:1100,odoo_price,odoo_category,odoo_type,odoo_id
+f65d82c5-139a-493d-b83a-5a91270bf9d0,,,Acide Urique,Acide Urique,Acide Urique,Acide Urique,,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_AcideUrique
+798683e4-9e7b-4fea-9959-c74939d323f3,,,Anthrax Cutané- Skin Test,Anthrax Cutané- Skin Test,Anthrax Cutané- Skin Test,Anthrax Cutané- Skin Test,,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_AnthraxCutané-SkinTest
+ed0b3145-be66-44c9-8a2f-6d247ae512bf,,,Anthrax Gastrointestinal- Blood Test or Stool Test ,Anthrax Gastrointestinal- Blood Test or Stool Test ,Anthrax Gastrointestinal- Blood Test or Stool Test ,Anthrax Gastrointestinal- Blood Test or Stool Test ,,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_AnthraxGastrointestinal-BloodTestorStoolTest
+bdff0480-5ec8-42b9-85b8-46214ab64d41,,,ADT (SGPT),ADT (SGPT),ADT (SGPT),ADT (SGPT),,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_ADT(SGPT)
+ae6a1b41-e1be-443c-9fca-332f4973811d,,,Albumine,Albumine,Albumine,Albumine,,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_Albumine
+0107f9ee-c316-402b-989c-a893ee87cd5c,,,Amylase,Amylase,Amylase,Amylase,,,LabTest,Text,,,,,,,,,,,,400,bahmni_product.categ_services_lab_test,service,hsc_Amylase
+eb9f2211-af08-46c3-b970-5a56c23dd232,,,ASO (Antistreptolysine O),ASO (Antistreptolysine O),ASO (Antistreptolysine O),ASO (Antistreptolysine O),,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_ASO(AntistreptolysineO)
+f8abd7c5-ad54-4cba-b5a5-72ecf1a075b2,,,AST (SGOT),AST (SGOT),AST (SGOT),AST (SGOT),,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_AST(SGOT)
+df07f646-a77c-4b40-aec8-0c9c9c85fea6,,,Azote de l'Urée (BUN),Azote de l'Urée (BUN),Azote de l'Urée (BUN),Azote de l'Urée (BUN),,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_AzotedelUrée(BUN)
+79c12c7f-117d-4f25-8454-2f10f788e467,,,BHCG,BHCG,BHCG,BHCG,,,LabTest,Text,,,,,,,,,,,,200,bahmni_product.categ_services_lab_test,service,hsc_BHCG
+d6f494c5-5e18-4fd2-bb91-2deeda9f0a1e,,,Bilan Hépatique (AST-ALT-TBil-ALKP-LDH),Bilan Hépatique (AST-ALT-TBil-ALKP-LDH),Bilan Hépatique (AST-ALT-TBil-ALKP-LDH),Bilan Hépatique (AST-ALT-TBil-ALKP-LDH),,,LabTest,Text,,,,,,,,,,,,1250,bahmni_product.categ_services_lab_test,service,hsc_BilanHépatique(AST-ALT-TBil-ALKP-LDH)
+a2b4f320-5abb-4c3f-9e0f-01c3adb6e522,,,Bilan Lipidique (Chol-Trig-HDLC-LDL-VLDL),Bilan Lipidique (Chol-Trig-HDLC-LDL-VLDL),Bilan Lipidique (Chol-Trig-HDLC-LDL-VLDL),Bilan Lipidique (Chol-Trig-HDLC-LDL-VLDL),,,LabTest,Text,,,,,,,,,,,,1000,bahmni_product.categ_services_lab_test,service,hsc_BilanLipidique(Chol-Trig-HDLC-LDL-VLDL)
+b0195f0d-aade-4a0f-9d14-aad299cb7678,,,Bilan Pré-Opératoire(Hemogramme-ABO&RB-PT&INR),Bilan Pré-Opératoire(Hemogramme-ABO&RB-PT&INR),Bilan Pré-Opératoire(Hemogramme-ABO&RB-PT&INR),Bilan Pré-Opératoire(Hemogramme-ABO&RB-PT&INR),,,LabTest,Text,,,,,,,,,,,,750,bahmni_product.categ_services_lab_test,service,hsc_BilanPré-Opératoire(Hemogramme-ABO&RB-PT&INR)
+4ffaade4-ce92-449f-9e22-faaa7c6ecaaa,,,Bilan Renal (BUN-Creat-Urée-Acide Urique),Bilan Renal (BUN-Creat-Urée-Acide Urique),Bilan Renal (BUN-Creat-Urée-Acide Urique),Bilan Renal (BUN-Creat-Urée-Acide Urique),,,LabTest,Text,,,,,,,,,,,,800,bahmni_product.categ_services_lab_test,service,hsc_BilanRenal(BUN-Creat-Urée-AcideUrique)
+39903f75-4d96-43fa-afa0-c843798d7cec,,,Bilan Thyroïdien,Bilan Thyroïdien,Bilan Thyroïdien,Bilan Thyroïdien,,,LabTest,Text,,,,,,,,,,,,1500,bahmni_product.categ_services_lab_test,service,hsc_BilanThyroïdien
+4dbc46d5-1c93-4560-8fb0-26c6a78ab007,,,Bilirubine Totale,Bilirubine Totale,Bilirubine Totale,Bilirubine Totale,,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_BilirubineTotale
+cab64983-787a-450a-8a9f-efe0b74127c7,,,Calcium (Ca),Calcium (Ca),Calcium (Ca),Calcium (Ca),,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_Calcium(Ca)
+a4af663e-9fef-4398-8d4e-77e5ae7d4c99,,,Chimie Sanguine (Glycemie-BUN-Urée-Créatine) ,Chimie Sanguine (Glycemie-BUN-Urée-Créatine) ,Chimie Sanguine (Glycemie-BUN-Urée-Créatine) ,Chimie Sanguine (Glycemie-BUN-Urée-Créatine) ,,,LabTest,Text,,,,,,,,,,,,750,bahmni_product.categ_services_lab_test,service,hsc_ChimieSanguine(Glycemie-BUN-Urée-Créatine)
+380e0d5e-7f4c-400b-b42d-328f905a59cb,,,Chlore (Cl),Chlore (Cl),Chlore (Cl),Chlore (Cl),,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_Chlore(Cl)
+809edde1-b977-44dc-828c-d630c458dcc1,,,Cholesterol,Cholesterol,Cholesterol,Cholesterol,,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_Cholesterol
+5703a04f-4019-4b35-9c46-61fe6562d96b,,,CO₂,CO₂,CO₂,CO₂,,,LabTest,Text,,,,,,,,,,,,300,bahmni_product.categ_services_lab_test,service,hsc_CO₂
+60029076-fb62-4639-bb05-42c29f6824a8,,,Crachat,Crachat,Crachat,Crachat,,,LabTest,Text,,,,,,,,,,,,300,bahmni_product.categ_services_lab_test,service,hsc_Crachat
+cbbfef96-4310-4c03-b020-0d46d43b76e2,,,Créatinine (CRSC),Créatinine (CRSC),Créatinine (CRSC),Créatinine (CRSC),,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_Créatinine(CRSC)
+e99feb36-c354-469f-8e57-37dda7549752,,,Créatinine Kinase (CK),Créatinine Kinase (CK),Créatinine Kinase (CK),Créatinine Kinase (CK),,,LabTest,Text,,,,,,,,,,,,350,bahmni_product.categ_services_lab_test,service,hsc_CréatinineKinase(CK)
+3e7519ab-9770-46af-aaa3-848aac5b0204,,,Créatinine Kinase MB,Créatinine Kinase MB,Créatinine Kinase MB,Créatinine Kinase MB,,,LabTest,Text,,,,,,,,,,,,350,bahmni_product.categ_services_lab_test,service,hsc_CréatinineKinaseMB
+de6e768c-149c-4146-9187-2450095b14bf,,,CRP,CRP,CRP,CRP,,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_CRP
+b16c518c-5c57-4aae-849b-5d25f62bc8e0,,,ECBC des Liquides (TP-ALB-LDH-GLU-WBC-RBC-Diff…),ECBC des Liquides (TP-ALB-LDH-GLU-WBC-RBC-Diff…),ECBC des Liquides (TP-ALB-LDH-GLU-WBC-RBC-Diff…),ECBC des Liquides (TP-ALB-LDH-GLU-WBC-RBC-Diff…),,,LabTest,Text,,,,,,,,,,,,1000,bahmni_product.categ_services_lab_test,service,hsc_ECBCdesLiquides(TP-ALB-LDH-GLU-WBC-RBC-Diff…)
+a93fbb7b-e982-4da6-8faf-750aada36630,,,Fer (Fe),Fer (Fe),Fer (Fe),Fer (Fe),,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_Fer(Fe)
+a7921ec8-9fcf-4256-9086-5e28c546834a,,,Filaire test Diurne,Filaire test Diurne,Filaire test Diurne,Filaire test Diurne,,,LabTest,Text,,,,,,,,,,,,200,bahmni_product.categ_services_lab_test,service,hsc_FilairetestDiurne
+ee8ea70f-7d9a-46ca-acc6-fe7aef3baa18,,,Filaire test Nocturne,Filaire test Nocturne,Filaire test Nocturne,Filaire test Nocturne,,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_FilairetestNocturne
+41c3aa3c-30d5-46ea-aded-fb4740582d7a,,,Frottis Uretral+ Goutte pendante,Frottis Uretral+ Goutte pendante,Frottis Uretral+ Goutte pendante,Frottis Uretral+ Goutte pendante,,,LabTest,Text,,,,,,,,,,,,200,bahmni_product.categ_services_lab_test,service,hsc_FrottisUretral+Gouttependante
+b87c4a2d-4963-4799-9c9d-304be3b74dfc,,,Frottis Vaginal+ Goutte pendante,Frottis Vaginal+ Goutte pendante,Frottis Vaginal+ Goutte pendante,Frottis Vaginal+ Goutte pendante,,,LabTest,Text,,,,,,,,,,,,200,bahmni_product.categ_services_lab_test,service,hsc_FrottisVaginal+Gouttependante
+1fb4ceb0-2ca2-4ed5-a5e0-d25a0b0614e3,,,Globules Blanches,Globules Blanches,Globules Blanches,Globules Blanches,,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_GlobulesBlanches
+13371f25-ae43-45a7-bbd9-706612acd6cd,,,Globules Rouges,Globules Rouges,Globules Rouges,Globules Rouges,,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_GlobulesRouges
+8e5d8513-9a0f-4cec-90ff-b1e77b50cd58,,,Glycemie Capillaire,Glycemie Capillaire,Glycemie Capillaire,Glycemie Capillaire,,,LabTest,Text,,,,,,,,,,,,150,bahmni_product.categ_services_lab_test,service,hsc_GlycemieCapillaire
+24963346-032e-474e-b832-ab55e9e72bc1,,,Glycemie Plasmatique,Glycemie Plasmatique,Glycemie Plasmatique,Glycemie Plasmatique,,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_GlycemiePlasmatique
+9977fc27-2cda-418a-b1d9-ac781a3c29d9,,,Gravindex,Gravindex,Gravindex,Gravindex,,,LabTest,Text,,,,,,,,,,,,200,bahmni_product.categ_services_lab_test,service,hsc_Gravindex
+af90f114-08f4-48e1-92ae-d65dd98bd17a,,,"Groupe Sanguin (ABO, Rh)","Groupe Sanguin (ABO, Rh)","Groupe Sanguin (ABO, Rh)","Groupe Sanguin (ABO, Rh)",,,LabTest,Text,,,,,,,,,,,,200,bahmni_product.categ_services_lab_test,service,"hsc_GroupeSanguin(ABO,Rh)"
+388e1e88-579b-456b-9c76-3632e0656fe6,,,Hemogramme Complet,Hemogramme Complet,Hemogramme Complet,Hemogramme Complet,,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_HemogrammeComplet
+81616dfd-0214-4213-b9dc-b3b4d1eb19ee,,,H-Pilori dans les selles,H-Pilori dans les selles,H-Pilori dans les selles,H-Pilori dans les selles,,,LabTest,Text,,,,,,,,,,,,750,bahmni_product.categ_services_lab_test,service,hsc_H-Piloridanslesselles
+a8e39cd4-848a-4e29-8029-b3cab9786ccf,,,H-Pilori test,H-Pilori test,H-Pilori test,H-Pilori test,,,LabTest,Text,,,,,,,,,,,,500,bahmni_product.categ_services_lab_test,service,hsc_H-Piloritest
+875fa3bf-02b6-4640-8a0f-12b41f273ea0,,,"Ionogramme (Na, K, Cl, CO₂)","Ionogramme (Na, K, Cl, CO₂)","Ionogramme (Na, K, Cl, CO₂)","Ionogramme (Na, K, Cl, CO₂)",,,LabTest,Text,,,,,,,,,,,,1000,bahmni_product.categ_services_lab_test,service,"hsc_Ionogramme(Na,K,Cl,CO₂)"
+c682feeb-1c0f-4e20-8d39-5ebd40c5d72f,,,Lame Peripherique,Lame Peripherique,Lame Peripherique,Lame Peripherique,,,LabTest,Text,,,,,,,,,,,,150,bahmni_product.categ_services_lab_test,service,hsc_LamePeripherique
+dd92f9aa-b168-4f18-bf3c-c5131368de43,,,LDH,LDH,LDH,LDH,,,LabTest,Text,,,,,,,,,,,,350,bahmni_product.categ_services_lab_test,service,hsc_LDH
+3285e4cb-eb01-4379-be0f-58582405034d,,,Lipase,Lipase,Lipase,Lipase,,,LabTest,Text,,,,,,,,,,,,400,bahmni_product.categ_services_lab_test,service,hsc_Lipase
+bdfdc444-b02e-43b2-969b-a871727a9b2f,,,Magnesium (Mg),Magnesium (Mg),Magnesium (Mg),Magnesium (Mg),,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_Magnesium(Mg)
+418f9d6b-5640-468d-bdd0-d8eb7240f2c7,,,Malaria test,Malaria test,Malaria test,Malaria test,,,LabTest,Text,,,,,,,,,,,,150,bahmni_product.categ_services_lab_test,service,hsc_Malariatest
+6ffe9e2c-30df-441b-8d9e-e8961ba7d926,,,Mantoux test,Mantoux test,Mantoux test,Mantoux test,,,LabTest,Text,,,,,,,,,,,,150,bahmni_product.categ_services_lab_test,service,hsc_Mantouxtest
+f9bb02ae-c609-45d3-87c4-d4545547ae46,,,Phosphatase Alcaline (ALKP),Phosphatase Alcaline (ALKP),Phosphatase Alcaline (ALKP),Phosphatase Alcaline (ALKP),,,LabTest,Text,,,,,,,,,,,,300,bahmni_product.categ_services_lab_test,service,hsc_PhosphataseAlcaline(ALKP)
+232daf37-6084-4e27-90e8-fb5c586b914f,,,Plaquettes Sanguines,Plaquettes Sanguines,Plaquettes Sanguines,Plaquettes Sanguines,,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_PlaquettesSanguines
+6ec9061c-29a9-46d4-beb3-bbc7ec276463,,,Potassium (K),Potassium (K),Potassium (K),Potassium (K),,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_Potassium(K)
+7dc0f852-edbf-469d-ad81-b322c76541f1,,,Proteine Serique,Proteine Serique,Proteine Serique,Proteine Serique,,,LabTest,Text,,,,,,,,,,,,400,bahmni_product.categ_services_lab_test,service,hsc_ProteineSerique
+809bc19e-d307-44cb-9b7e-40b53dd1cc87,,,Proteine Totale,Proteine Totale,Proteine Totale,Proteine Totale,,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_ProteineTotale
+87eb3958-e32d-439f-ad74-288c69e6e523,,,PSA,PSA,PSA,PSA,,,LabTest,Text,,,,,,,,,,,,1500,bahmni_product.categ_services_lab_test,service,hsc_PSA
+513eea45-283c-4fcc-8e68-b67e7f675700,,,PT-INR,PT-INR,PT-INR,PT-INR,,,LabTest,Text,,,,,,,,,,,,300,bahmni_product.categ_services_lab_test,service,hsc_PT-INR
+466f8940-043a-414c-8093-3af5931a0f26,,,RPR,RPR,RPR,RPR,,,LabTest,Text,,,,,,,,,,,,150,bahmni_product.categ_services_lab_test,service,hsc_RPR
+aa001db4-ff1a-4965-8ba4-171234d8c413,,,Sang Occulte,Sang Occulte,Sang Occulte,Sang Occulte,,,LabTest,Text,,,,,,,,,,,,200,bahmni_product.categ_services_lab_test,service,hsc_SangOcculte
+66b0701d-6648-4870-b825-a97a23174923,,,Selles,Selles,Selles,Selles,,,LabTest,Text,,,,,,,,,,,,200,bahmni_product.categ_services_lab_test,service,hsc_Selles
+95f7a90b-162f-4d6e-a930-70e74fc5fe29,,,Sickling test,Sickling test,Sickling test,Sickling test,,,LabTest,Text,,,,,,,,,,,,200,bahmni_product.categ_services_lab_test,service,hsc_Sicklingtest
+87f29974-9b4e-4de8-91fe-1549efbed66c,,,Sodium (Na),Sodium (Na),Sodium (Na),Sodium (Na),,,LabTest,Text,,,,,,,,,,,,200,bahmni_product.categ_services_lab_test,service,hsc_Sodium(Na)
+4d382dd3-4bc3-4a24-a51c-25e95dec9fcb,,,T3,T3,T3,T3,,,LabTest,Text,,,,,,,,,,,,450,bahmni_product.categ_services_lab_test,service,hsc_T3
+9d49aedc-8a43-4fba-8102-900cfa581e94,,,T4,T4,T4,T4,,,LabTest,Text,,,,,,,,,,,,450,bahmni_product.categ_services_lab_test,service,hsc_T4
+e87b437f-1cd7-464e-9518-5eb5589a3d26,,,Taux de reticulocytes,Taux de reticulocytes,Taux de reticulocytes,Taux de reticulocytes,,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_Tauxdereticulocytes
+e2833702-58c3-4d4d-8515-d6cd4bdb60b6,,,Triglyceride,Triglyceride,Triglyceride,Triglyceride,,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_Triglyceride
+db742797-1603-4e93-a855-bbf89e00b86e,,,TSH,TSH,TSH,TSH,,,LabTest,Text,,,,,,,,,,,,500,bahmni_product.categ_services_lab_test,service,hsc_TSH
+2adb5262-e165-48a8-9c6f-df8cee19856c,,,Urée,Urée,Urée,Urée,,,LabTest,Text,,,,,,,,,,,,250,bahmni_product.categ_services_lab_test,service,hsc_Urée
+170862ae-43a9-4b91-9aba-6ddc7d7e69a0,,,Urines,Urines,Urines,Urines,,,LabTest,Text,,,,,,,,,,,,200,bahmni_product.categ_services_lab_test,service,hsc_Urines
+7b99747a-287d-4f1a-a952-619259a0b6eb,,,Vitesse de Sedimentation (VS),Vitesse de Sedimentation (VS),Vitesse de Sedimentation (VS),Vitesse de Sedimentation (VS),,,LabTest,Text,,,,,,,,,,,,200,bahmni_product.categ_services_lab_test,service,hsc_VitessedeSedimentation(VS)
+52cf990c-cdd9-48c5-bdd6-33c0407d9caa,,,VLDL-Cholesterol,VLDL-Cholesterol,VLDL-Cholesterol,VLDL-Cholesterol,,,LabTest,Text,,,,,,,,,,,,400,bahmni_product.categ_services_lab_test,service,hsc_VLDL-Cholesterol
+95a5cae1-30f8-40a1-b883-4fba909f62a6,,,Widal,Widal,Widal,Widal,,,LabTest,Text,,,,,,,,,,,,200,bahmni_product.categ_services_lab_test,service,hsc_Widal
+997f4c0b-9c36-4d4b-ba0c-1ad411a00212,,,BAAF,BAAF,BAAF,BAAF,,,LabTest,Text,,,,,,,,,,,,1000,bahmni_product.categ_services_lab_test,service,hsc_BAAF
+357ab1df-f5a9-467b-94ec-54d9c8952036,,,Biopsie ,Biopsie ,Biopsie ,Biopsie ,,,LabTest,Text,,,,,,,,,,,,2500,bahmni_product.categ_services_lab_test,service,hsc_Biopsie
+97637590-c67a-4bbf-a1b2-77b23cb15e2c,,,Biopsie+ Colposcopie,Biopsie+ Colposcopie,Biopsie+ Colposcopie,Biopsie+ Colposcopie,,,LabTest,Text,,,,,,,,,,,,3000,bahmni_product.categ_services_lab_test,service,hsc_Biopsie+Colposcopie
+013d1f55-1aaa-44aa-a29a-d98a99aa12b1,,,Cytologie (frozen sop),Cytologie (frozen sop),Cytologie (frozen sop),Cytologie (frozen sop),,,LabTest,Text,,,,,,,,,,,,2500,bahmni_product.categ_services_lab_test,service,hsc_Cytologie(frozensop)
+ab50cdf5-b9f1-4cd5-a864-486c76f6e3ff,,,Pap Test,Pap Test,Pap Test,Pap Test,,,LabTest,Text,,,,,,,,,,,,600,bahmni_product.categ_services_lab_test,service,hsc_PapTest
+4a8881f4-8539-48e0-a5f6-b69037155d3e,,,Recherche de Cellules Malignes,Recherche de Cellules Malignes,Recherche de Cellules Malignes,Recherche de Cellules Malignes,,,LabTest,Text,,,,,,,,,,,,1250,bahmni_product.categ_services_lab_test,service,hsc_RecherchedeCellulesMalignes
+,,,HSC_general_lab_tests,HSC_general_lab_tests,General lab tests,General lab tests,,,Sample,N/A,,,"Acide Urique;Anthrax Cutané- Skin Test;Anthrax Gastrointestinal- Blood Test or Stool Test ;ADT (SGPT);Albumine;Amylase;ASO (Antistreptolysine O);AST (SGOT);Azote de l'Urée (BUN);BHCG;Bilan Hépatique (AST-ALT-TBil-ALKP-LDH);Bilan Lipidique (Chol-Trig-HDLC-LDL-VLDL);Bilan Pré-Opératoire(Hemogramme-ABO&RB-PT&INR);Bilan Renal (BUN-Creat-Urée-Acide Urique);Bilan Thyroïdien;Bilirubine Totale;Calcium (Ca);Chimie Sanguine (Glycemie-BUN-Urée-Créatine) ;Chlore (Cl);Cholesterol;CO₂;Crachat;Créatinine (CRSC);Créatinine Kinase (CK);Créatinine Kinase MB;CRP;ECBC des Liquides (TP-ALB-LDH-GLU-WBC-RBC-Diff…);Fer (Fe);Filaire test Diurne;Filaire test Nocturne;Frottis Uretral+ Goutte pendante;Frottis Vaginal+ Goutte pendante;Globules Blanches;Globules Rouges;Glycemie Capillaire;Glycemie Plasmatique;Gravindex;Groupe Sanguin (ABO, Rh);Hemogramme Complet;H-Pilori dans les selles;H-Pilori test;Ionogramme (Na, K, Cl, CO₂);Lame Peripherique;LDH;Lipase;Magnesium (Mg);Malaria test;Mantoux test;Phosphatase Alcaline (ALKP);Plaquettes Sanguines;Potassium (K);Proteine Serique;Proteine Totale;PSA;PT-INR;RPR;Sang Occulte;Selles;Sickling test;Sodium (Na);T3;T4;Taux de reticulocytes;Triglyceride;TSH;Urée;Urines;Vitesse de Sedimentation (VS);VLDL-Cholesterol;Widal;BAAF;Biopsie",,,,,,,,,,,,
+,,,HSC_HISTOPATHOLOGY,HSC_HISTOPATHOLOGY,Histopathology,Histopathology,,,Sample,N/A,,,Biopsie+ Colposcopie;Cytologie (frozen sop);Pap Test;Recherche de Cellules Malignes,,,,,,,,,,,,
+8160a011-3f10-11e4-adec-0800271c1b75,,,Lab Samples,Laboratory,,,,,Misc,N/A,,,HSC_general_lab_tests;HSC_HISTOPATHOLOGY ,,,,,,,,,,,,
