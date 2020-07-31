@@ -3,7 +3,7 @@ Uuid,Void/Retire,Name,Description,Parent,Tags,Address 1,Address 2,Address 3,Addr
 eed2c687-ecd3-4fab-b94e-e230c821d850,,Obstétrique,,,Login Location; Visit Location; Admission Location; Appointment Location,,,,,,,,,,,,
 f5a73835-4c69-4abe-bc7d-a03b6e1cd039,,Salle d'opération,,,Login Location; Visit Location; Admission Location; Appointment Location,,,,,,,,,,,,
 ec8fd6e9-cbfe-46b3-af76-a24d549b48c2,,Orthopédie,,,Login Location; Visit Location; Admission Location; Appointment Location,,,,,,,,,,,,
-dc005243-c2de-4a03-a728-37455602c520,,Inscription,,,Login Location; Visit Location,,,,,,,,,,,,
+dc005243-c2de-4a03-a728-37455602c520,,Archives,,,Login Location; Visit Location,,,,,,,,,,,,
 cba343ff-8331-4f77-96b7-a02ee7a42676,,Unité post-opératoire,,,Login Location; Visit Location; Admission Location; Appointment Location,,,,,,,,,,,,
 c588153d-a8d2-4555-962a-974fa6f8597f,,Radiologie,,,Login Location; Visit Location; Admission Location; Appointment Location,,,,,,,,,,,,
 bf194a00-95cf-4ed6-883b-0804e701d455,,Laboratoire,,,Login Location; Visit Location; Admission Location; Appointment Location,,,,,,,,,,,,
