@@ -7,7 +7,7 @@ c58e05ec-a7c7-4cb9-9050-e2f8d7d2c506,,Surgery,Concept class for Surgery orders
 b5c7ee53-5933-47ca-8f86-855a6e5fa0ed,,Wound,Concept class for Wound orders
 1fd966b6-cd3e-47d5-873a-0f34da1f8224,,Orthopedics and Traumatology,Concept class for Orthopedics and Traumatology Orders
 bfd02088-04c6-4abe-a5be-b5ee437c8ba9,,ENT,Concept class for ENT orders
-9dc243d8-9b36-48b7-99e3-211c1b193692,,Material,Concept class for Material orders
+bfaba740-4c32-43c9-b64c-3e2c0c08cdf0,,Material,Concept class for Material orders
 4bd15bfb-bffd-41fb-ac90-3dcc54e21748,,Wound,Concept class for Wound orders
 74812273-fe63-404a-8e0d-4e38955532af,,Maxillofacial,Concept class for Maxillofacial orders
 f57dee52-d7e6-46a2-93dd-12eae9195eea,,Drug,Concept class for Drug orders
