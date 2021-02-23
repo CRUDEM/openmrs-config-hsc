@@ -10,5 +10,4 @@ Uuid,Void/Retire,Name,Description,Java class name,Parent,Concept Classes,_order:
 67a93a90-0f88-11ea-8d71-362b9e155667,,Maxillofacial,An order for Maxillofacial exams,org.openmrs.Order,,Maxillofacial,
 67a93dce-0f88-11ea-8d71-362b9e155667,,Ophtalmology,An order for Ophtalmology exams,org.openmrs.Order,,Ophtalmology,
 3b4c11c6-45ce-498e-9a69-7f05f9785634,,Obstetrics and Gynecology,An order for Obstetrics and Gynecology exams,org.openmrs.Order,,Obstetrics and Gynecology,
-a360c8ba-e028-4e81-978c-5dd62470183e,,Radiology Order,An order for Radiology imaging,org.openmrs.Order,,Radiology,
 b733299f-58d6-4eb9-ba4c-0778f5b188a0,,Drug Order,An order for Drugs,org.openmrs.Order,,Drug,
