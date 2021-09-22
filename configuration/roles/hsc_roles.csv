@@ -1,0 +1,2 @@
+Uuid,Role name,Description,Inherited roles,Privileges
+b06c48e2-a0f3-4727-a24a-b47041b24b7c,HSC Registrar,,,Add Encounters;Add Observations;Add Patients;Add Relationships;Add Visits;app:registration;Delete Visits;Edit Encounters;Edit Observations;Edit Patient Identifiers;Edit Patients;Edit Relationships;Edit Users;Edit Visits;Get Concept Sources;Get Concepts;Get Encounter Roles;Get Encounters;Get Observations;Get Patient Identifiers;Get Patients;Get People;Get Person Attribute Types;Get Providers;Get Users;Get Visit Attribute Types;Get Visit Types;Get Visits;View Patients
