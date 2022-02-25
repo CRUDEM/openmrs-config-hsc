@@ -4,5 +4,4 @@ Uuid,Void/Retire,Same as mappings,Fully specified name:en,Fully specified name:f
 e1ce77e7-18de-4da4-b63b-5e9b96eb6bb6,,,Hospitalisation Soins intensifs,Hospitalisation Soins intensifs,Hospitalisation Soins intensifs,Hospitalisation Soins intensifs,,,Misc,Text,,,,,,,,,,,
 f0ae601c-bee9-4d0c-8189-7c0e7da73108,,,Patient en Observation,Patient en Observation,Patient en Observation,Patient en Observation,,,Misc,Text,,,,,,,,,,,
 e3324f1d-3d7a-4a9c-8091-a3b215de8683,,,Kit d'admission,Kit d'admission,Kit d'admission,Kit d'admission,,,Misc,Text,,,,,,,,,,,
-1a017ec6-3b32-4360-b1af-3e24fa8035b0,,,Consultation Générale,Consultation Générale,Consultation Générale,"Consultation Générale ",,,Misc,Text,,,,,,,,,,,
-4a4bb36a-63f5-4875-94c3-ac2f25bcb29a,,,Consultations Spécialisées,Consultations Spécialisées,Consultations Spécialisées,Consultations Spécialisées,,,Misc,Text,,,,,,,,,,,
+1a017ec6-3b32-4360-b1af-3e24fa8035b0,,,"Frais de Consultation ","Frais de Consultation ","Frais de Consultation ","Frais de Consultation ",,,Misc,Text,,,,,,,,,,,
