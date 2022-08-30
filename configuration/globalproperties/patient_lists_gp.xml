@@ -1,7 +1,7 @@
 <config>
   <globalProperties>
     <globalProperty>
-      <property>emrapi.sqlSearch.hsc.Anemie Falciforme</property>
+      <property>emrapi.sqlSearch.hsc.Anemie.Falciforme</property>
       <value>select distinct
           concat(pn.given_name,' ', ifnull(pn.family_name,'')) as name,
           pi.identifier as identifier,
@@ -67,7 +67,7 @@
       </value>
     </globalProperty>
     <globalProperty>
-      <property>emrapi.sqlSearch.hsc.Consultation Générale</property>
+      <property>emrapi.sqlSearch.hsc.Générale</property>
       <value>select distinct
           concat(pn.given_name,' ', ifnull(pn.family_name,'')) as name,
           pi.identifier as identifier,
@@ -155,7 +155,7 @@
       </value>
     </globalProperty>
     <globalProperty>
-      <property>emrapi.sqlSearch.hsc.Maxillo Faciale</property>
+      <property>emrapi.sqlSearch.hsc.MaxilloFaciale</property>
       <value>select distinct
           concat(pn.given_name,' ', ifnull(pn.family_name,'')) as name,
           pi.identifier as identifier,
@@ -221,7 +221,7 @@
       </value>
     </globalProperty>
     <globalProperty>
-      <property>emrapi.sqlSearch.hsc.Orthèse et Prothèse</property>
+      <property>emrapi.sqlSearch.hsc.OrthèseetProthèse</property>
       <value>select distinct
           concat(pn.given_name,' ', ifnull(pn.family_name,'')) as name,
           pi.identifier as identifier,
@@ -353,7 +353,7 @@
       </value>
     </globalProperty>
     <globalProperty>
-      <property>emrapi.sqlSearch.hsc.Tuberculose (TB)</property>
+      <property>emrapi.sqlSearch.hsc.Tuberculose</property>
       <value>select distinct
           concat(pn.given_name,' ', ifnull(pn.family_name,'')) as name,
           pi.identifier as identifier,
