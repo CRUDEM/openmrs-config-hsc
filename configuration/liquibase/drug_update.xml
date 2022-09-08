@@ -5,6 +5,11 @@
 
 	<!-- Drugs -->
 	<changeSet id="drug-2022-09-08-00-01" author="reagan-meant">
+		<preConditions onFail="MARK_RAN">
+            <sqlCheck expectedResult="1">
+                SELECT COUNT(1) FROM drug WHERE uuid = '86118f18-f615-4507-9707-8af57c3c5f85'
+            </sqlCheck>
+        </preConditions>
 		<comment>
 			Set drug 'Adrenaline 1mg/ml' UUID
 		</comment>
@@ -14,6 +19,11 @@
 		</update>
 	</changeSet>
 	<changeSet id="drug-2022-09-08-00-02" author="reagan-meant">
+		<preConditions onFail="MARK_RAN">
+            <sqlCheck expectedResult="1">
+                SELECT COUNT(1) FROM drug WHERE uuid = 'c05f629e-645c-4ea4-9cbe-78a04b01bc52'
+            </sqlCheck>
+        </preConditions>
 		<comment>
 			Set concept 'Aminophyllin 100mg/5ml' UUID
 		</comment>
