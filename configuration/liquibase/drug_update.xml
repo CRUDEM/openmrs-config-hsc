@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog/1.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog/1.9
+                  http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-1.9.xsd">
+
+	<!-- Drugs -->
+	<changeSet id="drug-2022-09-08-00-01" author="reagan-meant">
+		<comment>
+			Set drug 'Adrenaline 1mg/ml' UUID
+		</comment>
+		<update tableName="drug">
+			<column name="uuid" value="98a03243-932c-4a96-8120-c77dc427bafa"/>
+			<where>name='Adrenaline 1mg/ml'</where>
+		</update>
+	</changeSet>
+	<changeSet id="drug-2022-09-08-00-02" author="reagan-meant">
+		<comment>
+			Set concept 'Aminophyllin 100mg/5ml' UUID
+		</comment>
+		<update tableName="drug">
+			<column name="uuid" value="50cd73f1-e43f-45ac-b34f-d592bbac462f"/>
+			<where>name='Aminophyllin 100mg/5ml'</where>
+		</update>
+	</changeSet>
+	
+</databaseChangeLog>
