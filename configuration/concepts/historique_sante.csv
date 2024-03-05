@@ -47,3 +47,4 @@ b44ca1a9-7d31-48af-818c-ef8ef046ac75,,,Current Medication,Médicament en cours,C
 e042aba1-aa61-4a95-82f9-77aa7decb607,,,Current Medication Set,Groupe médicament en cours,Current Medication Set,Groupe médicament en cours,,,ConvSet,N/A,,,Médicament en cours;Précisions,,,,,,,,
 34628964-2ba7-453a-bf40-446cfb97ba04,,,Self Medication,Automédicament,Self Medication,Automédicament,,,Question,Coded,,bf885a9d-9f98-4990-8c20-ac4ace816bfe;2120763c-6c49-4133-b532-1e931ab4858a,,,,,,,,,
 f25ea3a8-132e-46d3-bb03-6491ff73b313,,,Self Medication Set,Groupe automédicament,Self Medication Set,Groupe automédicament,,,ConvSet,N/A,,,Automédicament;Précisions,,,,,,,,
+74400b2a-ac0f-4dce-8589-1301a85c96b7,,,Has Allergies,Has Allergies,Has Allergies,Has Allergies,,,Question,Coded,,Vrai;Faux,Vrai;Faux,,,,,,,,
