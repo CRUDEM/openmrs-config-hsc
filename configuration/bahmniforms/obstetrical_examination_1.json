@@ -7,27 +7,27 @@
         "published": true,
         "auditInfo": {
             "creator": {
-                "uuid": "A4F30A1B-5EB9-11DF-A648-37A07F9C90FB",
-                "display": "daemon",
+                "uuid": "0e13890d-da59-11ee-85e8-0242ac140008",
+                "display": "admin",
                 "links": [
                     {
                         "rel": "self",
-                        "uri": "http://openmrs:8080/openmrs/ws/rest/v1/user/A4F30A1B-5EB9-11DF-A648-37A07F9C90FB"
+                        "uri": "http://openmrs:8080/openmrs/ws/rest/v1/user/0e13890d-da59-11ee-85e8-0242ac140008"
                     }
                 ]
             },
-            "dateCreated": "2024-04-30T07:01:05.000+0000",
+            "dateCreated": "2024-03-04T19:10:48.000+0000",
             "changedBy": {
-                "uuid": "dc828960-06bc-11ef-a791-0242ac170003",
-                "display": "superman",
+                "uuid": "0e13890d-da59-11ee-85e8-0242ac140008",
+                "display": "admin",
                 "links": [
                     {
                         "rel": "self",
-                        "uri": "http://openmrs:8080/openmrs/ws/rest/v1/user/dc828960-06bc-11ef-a791-0242ac170003"
+                        "uri": "http://openmrs:8080/openmrs/ws/rest/v1/user/0e13890d-da59-11ee-85e8-0242ac140008"
                     }
                 ]
             },
-            "dateChanged": "2024-04-30T07:01:20.000+0000"
+            "dateChanged": "2024-03-04T20:18:28.000+0000"
         },
         "resources": [
             {
