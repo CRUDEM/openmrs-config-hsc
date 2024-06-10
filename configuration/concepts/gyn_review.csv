@@ -11,3 +11,6 @@ cd1d48f8-a791-4ac7-90a4-7336a58da545,,,Breast problems,Problèmes mammaires,Brea
 40b7e9a5-e251-4195-bf0f-d6b3ea7d6939,,,Gyn complaint Set,Groupe de plaintes gynécologiques,Gyn complaint Set,Groupe de plaintes gynécologiques,,,ConvSet,N/A,,,Plainte de gynéco; Autres observations,,,,,,,,
 ff35f875-84af-40da-bf39-9b3e1964a0f8,,,Pap Smear Done,Frottis Pap fait,Pap Smear Done,Frottis Pap fait,,,Misc,Coded,,bf885a9d-9f98-4990-8c20-ac4ace816bfe;2120763c-6c49-4133-b532-1e931ab4858a,,,,,,,,,
 d2c5eaca-af7b-4a81-9c9c-2fae8e416e2d,,,Pap Smear Set,Groupe de frottis Pap,Pap Smear Set,Groupe de frottis Pap,,,ConvSet,N/A,,,Frottis Pap fait;Date,,,,,,,,
+288445fc-87a4-464b-81ca-f3a0e9454c1b,,,First sexual intercourse,Premier rapport sexuel,First sexual intercourse,Premier rapport sexuel,,,Misc,Text,,,,,,,,,,,
+cfe9491c-8f42-425d-9c0a-987c171006e6,,,Number of partners,Nombre de partenaires,Number of partners,Nombre de partenaires,,,Misc,Numeric,,,,,,,,,,,
+b25e9790-46c0-4937-9a04-cead9b52b04b,,,Gyn History Set,Groupe Antecedants Gynecologiques,Gyn History Set,Groupe Antecedants Gynecologiques,,,ConvSet,N/A,,,Premier rapport sexuel;Nombre de partenaires,,,,,,,,
